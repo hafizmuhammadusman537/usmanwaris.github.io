@@ -7,7 +7,7 @@
   "background_color": "#fafafa",
   "scope": "/",
   "display": "fullscreen",
-  "start_url": "http://localhost:8080/",
+  "start_url": "/",
   "description": "Sample PWA App",
   "orientation": "any",
   "related_applications": [],
